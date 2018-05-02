@@ -31,12 +31,6 @@ CREATE(CH002:Cohorts {cohort_id: 'CH002', name:'DS01', start_date: 'September 20
 CREATE(CH003:Cohorts {cohort_id: 'CH003', name:'CS02', start_date: 'January 2018',   num_of_students: 23})
 CREATE(CH004:Cohorts {cohort_id: 'CH004', name:'DS02', start_date: 'January 2018',   num_of_students: 10})
 
-//Create Semesters
-
-//CREATE(SM001:Semesters {semester_id: 'SM001', name: 'Semester 1 2017/2018'})
-//CREATE(SM002:Semesters {semester_id: 'SM002', name: 'Semester 2 2017/2018'})
-
-
 
 //Create Relationships
 
